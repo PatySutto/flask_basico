@@ -1,2 +1,2 @@
 # flask_basico
-Código básico em flask para mostrar como criar as rotas
+Código básico para mostrar como criar as rotas
